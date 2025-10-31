@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>army55_jpg.rf.bbca8b9a11ee564bc5d005673e06021a.jpg</filename>
+	<path>army55_jpg.rf.bbca8b9a11ee564bc5d005673e06021a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>121</xmin>
+			<xmax>589</xmax>
+			<ymin>68</ymin>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>

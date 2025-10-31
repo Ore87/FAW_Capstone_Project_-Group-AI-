@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>230-CEW-larvae-sorghum-good1-web_jpg.rf.677a5b4a9971d0cc5c6d3d51aa9f0dfa.jpg</filename>
+	<path>230-CEW-larvae-sorghum-good1-web_jpg.rf.677a5b4a9971d0cc5c6d3d51aa9f0dfa.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn-earworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>300</xmin>
+			<xmax>408</xmax>
+			<ymin>172</ymin>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>jpg_48-Copy-2-_jpg.rf.5e796844b3e90dcfb648e09bf7762c54.jpg</filename>
+	<path>jpg_48-Copy-2-_jpg.rf.5e796844b3e90dcfb648e09bf7762c54.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>260</xmin>
+			<xmax>431</xmax>
+			<ymin>168</ymin>
+			<ymax>606</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>166-180809162048-fall-armyworm-2-super-tease_jpg.rf.c04d19e0a156bd66b6aa31ff9cd31560.jpg</filename>
+	<path>166-180809162048-fall-armyworm-2-super-tease_jpg.rf.c04d19e0a156bd66b6aa31ff9cd31560.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fall-armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>242</xmin>
+			<xmax>439</xmax>
+			<ymin>287</ymin>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

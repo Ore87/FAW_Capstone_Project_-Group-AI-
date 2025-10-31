@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>210_army-cutworm2_jpg.rf.84019e51cf9005991011649879c6854e.jpg</filename>
+	<path>210_army-cutworm2_jpg.rf.84019e51cf9005991011649879c6854e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>219</xmin>
+			<xmax>426</xmax>
+			<ymin>50</ymin>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>96-43783_jpg.rf.7d97932002acccf8d24c34ab4531fca7.jpg</filename>
+	<path>96-43783_jpg.rf.7d97932002acccf8d24c34ab4531fca7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cutworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>86</xmin>
+			<xmax>595</xmax>
+			<ymin>53</ymin>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

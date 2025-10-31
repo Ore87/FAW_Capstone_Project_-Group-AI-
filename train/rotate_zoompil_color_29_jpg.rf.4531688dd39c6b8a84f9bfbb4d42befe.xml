@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>rotate_zoompil_color_29_jpg.rf.4531688dd39c6b8a84f9bfbb4d42befe.jpg</filename>
+	<path>rotate_zoompil_color_29_jpg.rf.4531688dd39c6b8a84f9bfbb4d42befe.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>331</xmin>
+			<xmax>442</xmax>
+			<ymin>101</ymin>
+			<ymax>563</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

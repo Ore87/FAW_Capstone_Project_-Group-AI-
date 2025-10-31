@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>196_fall-armyworm-spodoptera-frugiperda-caterpillar-on-a-damaged-cotton-leaf-X6FDDD_jpg.rf.286e21f35bbe7e004252f24ff59fc2dc.jpg</filename>
+	<path>196_fall-armyworm-spodoptera-frugiperda-caterpillar-on-a-damaged-cotton-leaf-X6FDDD_jpg.rf.286e21f35bbe7e004252f24ff59fc2dc.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>84</xmin>
+			<xmax>512</xmax>
+			<ymin>275</ymin>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

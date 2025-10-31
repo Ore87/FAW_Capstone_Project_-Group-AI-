@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>stock-photo-fall-armyworm-spodoptera-frugiperda-on-maize-1444285109_jpg.rf.d6061faee4814cb5257c8aa5f83b2236.jpg</filename>
+	<path>stock-photo-fall-armyworm-spodoptera-frugiperda-on-maize-1444285109_jpg.rf.d6061faee4814cb5257c8aa5f83b2236.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

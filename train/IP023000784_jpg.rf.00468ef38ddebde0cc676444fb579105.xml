@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>IP023000784_jpg.rf.00468ef38ddebde0cc676444fb579105.jpg</filename>
+	<path>IP023000784_jpg.rf.00468ef38ddebde0cc676444fb579105.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>107</xmin>
+			<xmax>537</xmax>
+			<ymin>76</ymin>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

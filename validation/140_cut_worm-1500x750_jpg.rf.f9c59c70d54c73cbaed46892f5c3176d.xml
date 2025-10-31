@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>140_cut_worm-1500x750_jpg.rf.f9c59c70d54c73cbaed46892f5c3176d.jpg</filename>
+	<path>140_cut_worm-1500x750_jpg.rf.f9c59c70d54c73cbaed46892f5c3176d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>116</xmin>
+			<xmax>393</xmax>
+			<ymin>2</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

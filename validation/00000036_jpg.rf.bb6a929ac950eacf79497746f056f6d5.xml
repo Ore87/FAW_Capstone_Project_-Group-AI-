@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>00000036_jpg.rf.bb6a929ac950eacf79497746f056f6d5.jpg</filename>
+	<path>00000036_jpg.rf.bb6a929ac950eacf79497746f056f6d5.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>506</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Maize-fall-armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>230</xmin>
+			<xmax>660</xmax>
+			<ymin>43</ymin>
+			<ymax>507</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

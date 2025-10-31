@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>18-Fall_20armyworm_20larva_20on_20corn_20-_20JohnCFrenchSr-Bugwood-org__0_jpg.rf.7fce911c7eae792834c9fd849db866a8.jpg</filename>
+	<path>18-Fall_20armyworm_20larva_20on_20corn_20-_20JohnCFrenchSr-Bugwood-org__0_jpg.rf.7fce911c7eae792834c9fd849db866a8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fall-armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>184</xmin>
+			<xmax>505</xmax>
+			<ymin>188</ymin>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

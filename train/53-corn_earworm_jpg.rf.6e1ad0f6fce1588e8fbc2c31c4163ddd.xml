@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>53-corn_earworm_jpg.rf.6e1ad0f6fce1588e8fbc2c31c4163ddd.jpg</filename>
+	<path>53-corn_earworm_jpg.rf.6e1ad0f6fce1588e8fbc2c31c4163ddd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn-earworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>248</xmin>
+			<xmax>470</xmax>
+			<ymin>248</ymin>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

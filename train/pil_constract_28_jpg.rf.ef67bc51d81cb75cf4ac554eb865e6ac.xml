@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>pil_constract_28_jpg.rf.ef67bc51d81cb75cf4ac554eb865e6ac.jpg</filename>
+	<path>pil_constract_28_jpg.rf.ef67bc51d81cb75cf4ac554eb865e6ac.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>96</xmin>
+			<xmax>514</xmax>
+			<ymin>161</ymin>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>pil_brightness_5_jpg.rf.00015ab35ce20141911cb835c6d0dbed.jpg</filename>
+	<path>pil_brightness_5_jpg.rf.00015ab35ce20141911cb835c6d0dbed.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>160</xmin>
+			<xmax>466</xmax>
+			<ymin>204</ymin>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

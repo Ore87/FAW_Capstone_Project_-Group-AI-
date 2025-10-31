@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>hukum-makan-buah-yang-ada-ulatnya1_jpg.rf.010bc0a31eb627bb8b00f3dd4a46ecd6.jpg</filename>
+	<path>hukum-makan-buah-yang-ada-ulatnya1_jpg.rf.010bc0a31eb627bb8b00f3dd4a46ecd6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>342</xmin>
+			<xmax>429</xmax>
+			<ymin>279</ymin>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

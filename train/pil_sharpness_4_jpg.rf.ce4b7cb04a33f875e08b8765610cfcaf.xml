@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>pil_sharpness_4_jpg.rf.ce4b7cb04a33f875e08b8765610cfcaf.jpg</filename>
+	<path>pil_sharpness_4_jpg.rf.ce4b7cb04a33f875e08b8765610cfcaf.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>36</xmin>
+			<xmax>402</xmax>
+			<ymin>6</ymin>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

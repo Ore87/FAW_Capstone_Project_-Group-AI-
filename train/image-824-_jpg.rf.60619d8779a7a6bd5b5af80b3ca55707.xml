@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>image-824-_jpg.rf.60619d8779a7a6bd5b5af80b3ca55707.jpg</filename>
+	<path>image-824-_jpg.rf.60619d8779a7a6bd5b5af80b3ca55707.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fallarmyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>90</xmin>
+			<xmax>584</xmax>
+			<ymin>121</ymin>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>random_translation_pil_constract_16_jpg.rf.c86f7daa304ab78910cbc780d4d836c7.jpg</filename>
+	<path>random_translation_pil_constract_16_jpg.rf.c86f7daa304ab78910cbc780d4d836c7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>172</xmax>
+			<ymin>175</ymin>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

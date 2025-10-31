@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>pest-47-_jpg.rf.162c1024db56996a2cc0587dca2b4c84.jpg</filename>
+	<path>pest-47-_jpg.rf.162c1024db56996a2cc0587dca2b4c84.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>299</xmin>
+			<xmax>363</xmax>
+			<ymin>186</ymin>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

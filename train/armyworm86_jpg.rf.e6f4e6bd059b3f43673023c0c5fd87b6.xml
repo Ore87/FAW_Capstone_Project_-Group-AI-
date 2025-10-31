@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>armyworm86_jpg.rf.e6f4e6bd059b3f43673023c0c5fd87b6.jpg</filename>
+	<path>armyworm86_jpg.rf.e6f4e6bd059b3f43673023c0c5fd87b6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pest-armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>243</xmin>
+			<xmax>604</xmax>
+			<ymin>194</ymin>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

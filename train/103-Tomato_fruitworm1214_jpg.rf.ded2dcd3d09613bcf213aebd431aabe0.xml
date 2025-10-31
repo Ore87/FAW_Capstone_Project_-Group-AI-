@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>103-Tomato_fruitworm1214_jpg.rf.ded2dcd3d09613bcf213aebd431aabe0.jpg</filename>
+	<path>103-Tomato_fruitworm1214_jpg.rf.ded2dcd3d09613bcf213aebd431aabe0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn-earworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>236</xmin>
+			<xmax>319</xmax>
+			<ymin>276</ymin>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

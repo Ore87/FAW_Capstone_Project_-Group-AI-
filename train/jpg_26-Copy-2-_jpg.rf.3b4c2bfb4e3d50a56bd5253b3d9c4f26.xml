@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>jpg_26-Copy-2-_jpg.rf.3b4c2bfb4e3d50a56bd5253b3d9c4f26.jpg</filename>
+	<path>jpg_26-Copy-2-_jpg.rf.3b4c2bfb4e3d50a56bd5253b3d9c4f26.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>133</xmin>
+			<xmax>525</xmax>
+			<ymin>50</ymin>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>WIN_20250125_20_42_48_Pro_jpg.rf.8b08e537f3e800a869f94b5c9e3cc779.jpg</filename>
+	<path>WIN_20250125_20_42_48_Pro_jpg.rf.8b08e537f3e800a869f94b5c9e3cc779.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>273</xmin>
+			<xmax>361</xmax>
+			<ymin>258</ymin>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>178_bronzed_cutworm2_jpg.rf.667f738efc6b246f1b0aae2e396c42dc.jpg</filename>
+	<path>178_bronzed_cutworm2_jpg.rf.667f738efc6b246f1b0aae2e396c42dc.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>253</xmin>
+			<xmax>576</xmax>
+			<ymin>166</ymin>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

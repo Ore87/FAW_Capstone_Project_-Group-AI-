@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>12-cabbage-worm_jpg.rf.bfd993f8c9ea80ec34e4d4dfb3f7c937.jpg</filename>
+	<path>12-cabbage-worm_jpg.rf.bfd993f8c9ea80ec34e4d4dfb3f7c937.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cabbage-worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>199</xmin>
+			<xmax>480</xmax>
+			<ymin>270</ymin>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

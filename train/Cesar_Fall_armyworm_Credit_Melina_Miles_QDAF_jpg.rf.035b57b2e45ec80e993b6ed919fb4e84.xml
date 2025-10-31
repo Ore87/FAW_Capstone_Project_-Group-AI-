@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>Cesar_Fall_armyworm_Credit_Melina_Miles_QDAF_jpg.rf.035b57b2e45ec80e993b6ed919fb4e84.jpg</filename>
+	<path>Cesar_Fall_armyworm_Credit_Melina_Miles_QDAF_jpg.rf.035b57b2e45ec80e993b6ed919fb4e84.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fall-Armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>146</xmin>
+			<xmax>384</xmax>
+			<ymin>295</ymin>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

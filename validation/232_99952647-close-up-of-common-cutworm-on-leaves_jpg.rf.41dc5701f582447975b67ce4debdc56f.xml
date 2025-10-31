@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>232_99952647-close-up-of-common-cutworm-on-leaves_jpg.rf.41dc5701f582447975b67ce4debdc56f.jpg</filename>
+	<path>232_99952647-close-up-of-common-cutworm-on-leaves_jpg.rf.41dc5701f582447975b67ce4debdc56f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>9</xmin>
+			<xmax>421</xmax>
+			<ymin>102</ymin>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

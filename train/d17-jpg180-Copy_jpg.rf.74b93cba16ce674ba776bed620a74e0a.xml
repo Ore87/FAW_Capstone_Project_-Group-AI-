@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>d17-jpg180-Copy_jpg.rf.74b93cba16ce674ba776bed620a74e0a.jpg</filename>
+	<path>d17-jpg180-Copy_jpg.rf.74b93cba16ce674ba776bed620a74e0a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plaga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>63</xmin>
+			<xmax>363</xmax>
+			<ymin>126</ymin>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

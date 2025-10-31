@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>181-tobacco-budworm-corn-earworm-tomato-fruitworm-cotton-bollworm-or-soybean-podworm-heliothis-virescens-larva-on-cotton-leaf-X5PNCG_jpg.rf.aec2f3b029e15bed84b7a03424677a12.jpg</filename>
+	<path>181-tobacco-budworm-corn-earworm-tomato-fruitworm-cotton-bollworm-or-soybean-podworm-heliothis-virescens-larva-on-cotton-leaf-X5PNCG_jpg.rf.aec2f3b029e15bed84b7a03424677a12.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn-earworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>126</xmin>
+			<xmax>402</xmax>
+			<ymin>184</ymin>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

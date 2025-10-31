@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>210-Pieris-rapae_jpg.rf.341f115de4fad57af823256c2b6c05e7.jpg</filename>
+	<path>210-Pieris-rapae_jpg.rf.341f115de4fad57af823256c2b6c05e7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cabbage-worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>124</xmin>
+			<xmax>498</xmax>
+			<ymin>281</ymin>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>random_translation_13_jpg.rf.272d78661dab851a05b6f292cc5c9efd.jpg</filename>
+	<path>random_translation_13_jpg.rf.272d78661dab851a05b6f292cc5c9efd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>167</xmin>
+			<xmax>516</xmax>
+			<ymin>94</ymin>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

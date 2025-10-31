@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>3_Cutworms-Destroying-Tomato-Plants_jpg.rf.614e8049f3195423a340dad07afa0ded.jpg</filename>
+	<path>3_Cutworms-Destroying-Tomato-Plants_jpg.rf.614e8049f3195423a340dad07afa0ded.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>45</xmin>
+			<xmax>612</xmax>
+			<ymin>79</ymin>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

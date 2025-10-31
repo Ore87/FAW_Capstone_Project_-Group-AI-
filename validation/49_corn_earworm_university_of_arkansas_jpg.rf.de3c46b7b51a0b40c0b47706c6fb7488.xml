@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>49_corn_earworm_university_of_arkansas_jpg.rf.de3c46b7b51a0b40c0b47706c6fb7488.jpg</filename>
+	<path>49_corn_earworm_university_of_arkansas_jpg.rf.de3c46b7b51a0b40c0b47706c6fb7488.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>228</xmin>
+			<xmax>482</xmax>
+			<ymin>50</ymin>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

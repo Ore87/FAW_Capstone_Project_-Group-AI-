@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>vertical_flip9_jpg.rf.ad33be2c09ad5055c91adc9165eb2e09.jpg</filename>
+	<path>vertical_flip9_jpg.rf.ad33be2c09ad5055c91adc9165eb2e09.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

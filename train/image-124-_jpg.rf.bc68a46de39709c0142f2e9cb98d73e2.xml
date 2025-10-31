@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>image-124-_jpg.rf.bc68a46de39709c0142f2e9cb98d73e2.jpg</filename>
+	<path>image-124-_jpg.rf.bc68a46de39709c0142f2e9cb98d73e2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>34</xmin>
+			<xmax>631</xmax>
+			<ymin>103</ymin>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

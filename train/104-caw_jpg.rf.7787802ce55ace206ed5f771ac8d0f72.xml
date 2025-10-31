@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>104-caw_jpg.rf.7787802ce55ace206ed5f771ac8d0f72.jpg</filename>
+	<path>104-caw_jpg.rf.7787802ce55ace206ed5f771ac8d0f72.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cabbage-worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>40</xmin>
+			<xmax>641</xmax>
+			<ymin>166</ymin>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

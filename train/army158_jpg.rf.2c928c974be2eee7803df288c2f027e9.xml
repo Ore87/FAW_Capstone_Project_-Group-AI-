@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>army158_jpg.rf.2c928c974be2eee7803df288c2f027e9.jpg</filename>
+	<path>army158_jpg.rf.2c928c974be2eee7803df288c2f027e9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>93</xmin>
+			<xmax>540</xmax>
+			<ymin>269</ymin>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>216-Image-6-WBC-larvae-in-corn-ear-Baute-1920x1200_jpg.rf.48f8c41038380090f589e4851d4f3d90.jpg</filename>
+	<path>216-Image-6-WBC-larvae-in-corn-ear-Baute-1920x1200_jpg.rf.48f8c41038380090f589e4851d4f3d90.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cutworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>329</xmin>
+			<xmax>429</xmax>
+			<ymin>288</ymin>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

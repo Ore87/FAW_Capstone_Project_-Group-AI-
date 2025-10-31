@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>165-cabbage-worm-control-looper-caterpillar-identify-prevent-get-rid-s_jpg.rf.98c3ce7350be528928dffdf56f3c3e19.jpg</filename>
+	<path>165-cabbage-worm-control-looper-caterpillar-identify-prevent-get-rid-s_jpg.rf.98c3ce7350be528928dffdf56f3c3e19.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cabbage-worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>56</xmin>
+			<xmax>592</xmax>
+			<ymin>257</ymin>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

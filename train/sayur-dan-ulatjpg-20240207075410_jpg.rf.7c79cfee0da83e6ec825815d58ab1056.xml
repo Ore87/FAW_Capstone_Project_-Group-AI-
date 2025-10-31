@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>sayur-dan-ulatjpg-20240207075410_jpg.rf.7c79cfee0da83e6ec825815d58ab1056.jpg</filename>
+	<path>sayur-dan-ulatjpg-20240207075410_jpg.rf.7c79cfee0da83e6ec825815d58ab1056.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>140</xmin>
+			<xmax>502</xmax>
+			<ymin>261</ymin>
+			<ymax>560</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

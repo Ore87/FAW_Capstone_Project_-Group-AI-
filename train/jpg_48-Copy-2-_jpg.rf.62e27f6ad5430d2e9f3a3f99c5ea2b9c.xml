@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>jpg_48-Copy-2-_jpg.rf.62e27f6ad5430d2e9f3a3f99c5ea2b9c.jpg</filename>
+	<path>jpg_48-Copy-2-_jpg.rf.62e27f6ad5430d2e9f3a3f99c5ea2b9c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plaga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>137</xmin>
+			<xmax>451</xmax>
+			<ymin>98</ymin>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>
