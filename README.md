@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ore87/FAW_Capstone_Project_-Group-AI-/blob/main/FAW_(Group_AI).ipynb)
+
 # Early Detection of Fall Armyworm (FAW) with YOLOv11s
 
 ![Project Banner](results/train_batch1.jpg) This repository contains the capstone project for the AI Bootcamp, focusing on the detection of the Fall Armyworm (FAW) using a YOLOv11s object detection model. The model is trained to identify FAW in images, providing a crucial tool for early pest detection to protect crops and ensure food security.
