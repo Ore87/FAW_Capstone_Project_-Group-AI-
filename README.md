@@ -104,7 +104,7 @@ This project is fully contained in the Google Colab notebook.
 
 ### Key Files
 * **`FAW_(Group_AI).ipynb`**: The main Google Colab notebook with all code, from data cleaning to training and export.
-* **`final_model/model.onnx`**: The final, trained, and deployable model file (36.2 MB).
+* **`final_model/model.onnx`**: [**Download The Trained Model Here (36.2 MB)**](https://drive.google.com/file/d/196sgOBq9QJFVhoa96jwKnBhSOvpC7Z5M/view?usp=drive_link)
 * **`train/` & `validation/`**: The raw dataset folders used by the notebook.
 * **`results/`**: A folder containing all output graphs from the training run.
 
