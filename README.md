@@ -2,7 +2,9 @@
 
 # Early Detection of Fall Armyworm (FAW) with YOLOv11s
 
-![Project Banner](results/BoxPR_curve.png) This repository contains the capstone project for the AI Bootcamp, focusing on the detection of the Fall Armyworm (FAW) using a YOLOv11s object detection model. The model is trained to identify FAW in images, providing a crucial tool for early pest detection to protect crops and ensure food security.
+![Project Banner](results/Project_Banner.png)
+
+This repository contains the capstone project for the AI Bootcamp, focusing on the detection of the Fall Armyworm (FAW) using a YOLOv11s object detection model. The model is trained to identify FAW in images, providing a crucial tool for early pest detection to protect crops and ensure food security.
 
 ---
 
@@ -70,6 +72,21 @@ The "Mistake Report" shows a well-balanced model:
 * **2,160 True Positives:** Correct "bullseye" detections.
 * **188 False Negatives:** "Missed" detections (explains 90.3% Recall).
 * **244 False Positives:** "Ghost" detections (explains 91.0% Precision).
+
+### Detailed Metric Curves
+The training process also generates detailed breakdowns of key metrics at different confidence thresholds, which confirm the model's robustness.
+
+* **F1-Confidence Curve (`BoxF1_curve.png`)**
+    This graph shows the F1 score (the balance between precision and recall). Our model's F1 score peaks and stays high across a wide range of confidence thresholds, which is excellent.
+    ![F1 Curve](results/BoxF1_curve.png)
+
+* **Precision-Recall (PR) Curve (`BoxPR_curve.png`)**
+    This plot shows the tradeoff between precision and recall. Our curve stays high in the top-right corner, which indicates high precision is maintained even as recall increases.
+    ![PR Curve](results/BoxPR_curve.png)
+
+* **Recall-Confidence Curve (`BoxR_curve.png`)**
+    This shows how recall (the ability to find *all* true pests) changes as the confidence threshold is adjusted.
+    ![Recall Curve](results/BoxR_curve.png)
 
 ---
 
