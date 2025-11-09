@@ -8,14 +8,14 @@ This repository contains the capstone project for the AI Bootcamp, focusing on t
 
 ---
 
-## 🌾 The Problem: A Global Threat
+##  The Problem: A Global Threat
 
 The Fall Armyworm (*Spodoptera frugiperda*) is a highly invasive pest that has spread globally from the Americas. It threatens food security worldwide, causing devastating crop loss, particularly in maize.
 * **Unstoppable Spread:** FAW cannot be eradicated; an adult moth can fly up to 100km per night.
 * **Massive Crop Loss:** It is responsible for an estimated **17.7 million tonnes** of annual maize loss in Africa alone (a 31% average loss).
 * **Critical Need:** Early and accurate detection is the only effective way to manage the pest and protect the livelihoods of smallholder farmers.
 
-## 🎯 Project Aim
+##  Project Aim
 
 The goal of this project was to:
 1.  **Design and train** a high-performance, supervised AI model for the early and accurate detection of FAW from visual data.
@@ -23,7 +23,7 @@ The goal of this project was to:
 
 ---
 
-## 🛠️ Project Pipeline
+##  Project Pipeline
 
 The success of this project was not just in training a model, but in a rigorous data engineering pipeline.
 
@@ -48,7 +48,7 @@ We made the key decision to simplify the problem. Our custom Python script perfo
 
 ---
 
-## 📊 Final Performance & Results
+##  Final Performance & Results
 
 Our 1-Class strategy and choice of the YOLOv11s model were highly successful.
 
@@ -90,7 +90,7 @@ The training process also generates detailed breakdowns of key metrics at differ
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 This project is fully contained in the Google Colab notebook.
 
@@ -110,13 +110,13 @@ This project is fully contained in the Google Colab notebook.
 
 ---
 
-## 🚧 Challenges Faced
+##  Challenges Faced
 
 * **Model Incompatibility:** Our first attempt with an **SSD MobileNet** model failed as it was not computationally feasible in the free Colab environment, forcing a pivot to the more efficient YOLO framework.
 * **Data Chaos:** The 23-label mess was the single biggest hurdle and required significant data engineering to solve.
 * **GPU Constraints:** We exhausted the free GPU resources in Google Colab multiple times, requiring careful scheduling of training runs.
 
-## 💡 Proposed Future Work
+##  Proposed Future Work
 
 The `model.onnx` file is ready for deployment. The logical next steps are:
 * **Telegram Chatbot:** Create a simple bot where farmers can send a photo and get an instant "FAW Detected" response.
