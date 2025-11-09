@@ -2,7 +2,7 @@
 
 # Early Detection of Fall Armyworm (FAW) with YOLOv11s
 
-![Project Banner](results/train_batch1.jpg) This repository contains the capstone project for the AI Bootcamp, focusing on the detection of the Fall Armyworm (FAW) using a YOLOv11s object detection model. The model is trained to identify FAW in images, providing a crucial tool for early pest detection to protect crops and ensure food security.
+![Project Banner](results/BoxPR_curve.png) This repository contains the capstone project for the AI Bootcamp, focusing on the detection of the Fall Armyworm (FAW) using a YOLOv11s object detection model. The model is trained to identify FAW in images, providing a crucial tool for early pest detection to protect crops and ensure food security.
 
 ---
 
@@ -58,14 +58,14 @@ Our 1-Class strategy and choice of the YOLOv11s model were highly successful.
 | **Recall** (Low Missed Detections) | **90.3%** |
 
 ### Training & Validation Curves
-![Results Chart](results/results.jpg)
+![Results Chart](results/results%20(2).png)
 The learning curves show a perfect training run:
 * **Loss (Confusion)** curves (top and bottom left) steadily decrease, showing the model learned.
 * **Metrics (Scores)** curves (right) steadily increase and plateau, showing high performance.
 * Validation and Training curves are closely aligned, proving the model **did not overfit**.
 
 ### Confusion Matrix
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](results/confusion_matrix%20(1).png)
 The "Mistake Report" shows a well-balanced model:
 * **2,160 True Positives:** Correct "bullseye" detections.
 * **188 False Negatives:** "Missed" detections (explains 90.3% Recall).
@@ -77,21 +77,19 @@ The "Mistake Report" shows a well-balanced model:
 
 This project is fully contained in the Google Colab notebook.
 
-1.  **Clone this repository:**
-    ```bash
-    git clone [https://github.com/YourUsername/FAW-Object-Detection-YOLOv11s.git](https://github.com/YourUsername/FAW-Object-Detection-YOLOv11s.git)
-    ```
-2.  **Upload the Notebook:** Upload `FAW_Capstone_Project.ipynb` to Google Colab.
-3.  **Run the Notebook:** The notebook is self-contained. It will:
+1.  **Open in Colab:** Click the "Open in Colab" badge at the top of this page.
+2.  **Run the Notebook:** The notebook is self-contained. It will:
     * Install all dependencies (`ultralytics`, etc.).
-    * Clone the original messy data from its public GitHub source.
+    * Clone the dataset (which is part of this repository).
     * Run the complete data-cleaning pipeline (Steps 1-3) to create the clean dataset.
     * Run the model training (Step 4).
     * Export the final `model.onnx` file.
 
 ### Key Files
-* **`FAW_Capstone_Project.ipynb`**: The main Google Colab notebook with all code, from data cleaning to training and export.
+* **`FAW_(Group_AI).ipynb`**: The main Google Colab notebook with all code, from data cleaning to training and export.
 * **`final_model/model.onnx`**: The final, trained, and deployable model file (36.2 MB).
+* **`train/` & `validation/`**: The raw dataset folders used by the notebook.
+* **`results/`**: A folder containing all output graphs from the training run.
 
 ---
 
